@@ -1,8 +1,8 @@
 title: Monty Panday
-description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and GitHub Pages, with social/SEO features.
+description: Final year Programming student at Deakin, currently working as Junior Analyst Programmer at Box Hill Institute. Also working as a Programmer at NetCrypt. Graduating in July 2018, looking for a full time role.
 show_downloads: true
 
-baseurl: "/my-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://montypanday.github.io" # change this to the base hostname & protocol for your site
 
 google_analytics:
