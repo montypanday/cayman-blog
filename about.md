@@ -6,10 +6,10 @@ permalink: /about.html
 ---
 
 ## Contact Details
-Phone: 0410870704   
-Email: mpanday@deakin.edu.au  
-LinkedIn: https://au.linkedin.com/in/monty-panday-b17416104  
-GitHub: https://github.com/montypanday
+**Phone:** 0410870704   
+**Email:** [mpanday@deakin.edu.au](mailto:mpanday@deakin.edu.au)  
+**LinkedIn:** [https://au.linkedin.com/in/monty-panday-b17416104](https://au.linkedin.com/in/monty-panday-b17416104)  
+**GitHub:** [https://github.com/montypanday](https://github.com/montypanday)
 
 
 ## Professional Profile  
@@ -48,7 +48,7 @@ I am a final year student, studying the Bachelor of Information Technology at De
 
 ## Education
 
-##### BACHELOR OF INFORMATION TECHNOLOGY    
+### BACHELOR OF INFORMATION TECHNOLOGY    
 Deakin University | July 2015 – Current   
 
 -	Major:    
@@ -60,7 +60,7 @@ Deakin University | July 2015 – Current
 
 ## Relevant Experience
 
-#### JUNIOR ANALYST PROGRAMMER
+### JUNIOR ANALYST PROGRAMMER
 
 **Box Hill Institute**						
 *February 2018 – Current*  
@@ -68,7 +68,7 @@ Deakin University | July 2015 – Current
 -	PHP development – fuse box framework and MSSQL.  
 -	Code Refactoring, adding features and resolving issues.
 
-#### SUMMER TECH LIVE PROGRAM – VICTORIA GOVERNMENT
+### SUMMER TECH LIVE PROGRAM – VICTORIA GOVERNMENT
 
 **[NetCrypt](https://netcrypt.com/)**.  
 *December 2017 – Current*  
@@ -78,7 +78,7 @@ Deakin University | July 2015 – Current
 -	Understanding and addressing IT business requirements.  
 -	Started on Android project.  
 
-#### PROGRAMMER - INTERN  
+### PROGRAMMER - INTERN  
 **Box Hill Institute**  
 *October 2017 – February 2018  
 IT Service Desk provides services to Box Hill Institute’s staff, students and contractors*  
@@ -87,7 +87,7 @@ IT Service Desk provides services to Box Hill Institute’s staff, students and 
 -	Improvised Software License Management application.  
 -	Making Posters and Manuals to assist staff and students.  
 
-#### TEAM LEAD  
+### TEAM LEAD  
 [DocChain](https://montypanday.github.io/DocChain/)
  - University Project - [LINCD](https://www.lincd.co/)  
 *July 2017 – February 2018*  
@@ -98,7 +98,7 @@ IT Service Desk provides services to Box Hill Institute’s staff, students and 
 
 ## EMPLOYMENT HISTORY
 
-#### CALL CENTER OPERATOR  
+### CALL CENTER OPERATOR  
 **Division of Student Life, Deakin university**  
 *August 2017 – December 2017*  
 Call center provides support to high risk students.  
@@ -107,7 +107,7 @@ Call center provides support to high risk students.
 -	Improved my communication skills.  
 
 
-#### Cleaner Grade 2   
+### Cleaner Grade 2   
 **ISS Facility Services, Nestle Campbellfield**   
 *October 2016 – Current  
 ISS provides cleaning services, support, property,
@@ -115,7 +115,7 @@ catering, security and facility management services.*
 -	Maintained high cleaning standards.  
 -	Represented ISS in Nestle.
 
-#### Restaurant Manager/ Kitchen Hand/ Waiter  
+### Restaurant Manager/ Kitchen Hand/ Waiter  
 Shiraaz Indian Restaurant, 48 Malop street, Geelong  
 August 2015 – August 2016
 -	Mastered in fine dining skills.
@@ -134,23 +134,23 @@ Training is provided by Deakin as part of two units. The exam date is yet to be 
 
 ## VOLUNTEERING
 
-#### HEAD BOY  
-###### C.F.C Public School, Ludhiana, Punjab, India  
+### HEAD BOY  
+#### C.F.C Public School, Ludhiana, Punjab, India  
 *March 2014 – March 2015*  
 High school affiliated with CBSE (Central Board of Secondary Education), India.   
 -	Organized events like debates, cultural festivals, sports events and dance performances.  
 -	Presided the student council.  
 -	Facilitated management activities and coordinated with Student Council.     
 
-#### HOUSE VICE CAPTAIN  
-###### C.F.C Public School, Ludhiana, Punjab, India   
+### HOUSE VICE CAPTAIN  
+#### C.F.C Public School, Ludhiana, Punjab, India   
 *March 2013 – March 2014*  
 •	Performed duties under guidance of House Captains for student council.  
 •	Orchestrated disciplinary activities and dance, play performances during events.   
 •	Boosted student’s participation in student council.
 
-#### HOUSE PREFECT  
-###### C.F.C Public School, Ludhiana, Punjab, India  
+### HOUSE PREFECT  
+#### C.F.C Public School, Ludhiana, Punjab, India  
 *March 2011 – March 2013*  
 •	Participated in student council work within campus.  
 •	Accomplished general disciplinary duties like checking uniforms, organizing students for morning assembly.      
