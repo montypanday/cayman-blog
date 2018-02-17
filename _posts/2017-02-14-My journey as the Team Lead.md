@@ -1,5 +1,5 @@
 ---
-title: DocChain: My journey working as a Team Lead
+title: My journey as the Team Lead
 layout: post
 ---
 
