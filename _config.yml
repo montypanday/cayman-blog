@@ -16,8 +16,8 @@ theme: # leave it empty
 # social
 author: "Monty Panday"
 image: /thumbnail-jumbo.png
-twitter:
-  username: lorepirri
+# twitter:
+  # username: lorepirri
 #  site:
 facebook:
   #publisher: 1592372034171500
