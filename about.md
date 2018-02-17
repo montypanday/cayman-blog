@@ -116,7 +116,7 @@ catering, security and facility management services.*
 -	Represented ISS in Nestle.
 
 ### Restaurant Manager/ Kitchen Hand/ Waiter  
-Shiraaz Indian Restaurant, 48 Malop street, Geelong  
+**Shiraaz Indian Restaurant, 48 Malop street, Geelong**  
 August 2015 – August 2016
 -	Mastered in fine dining skills.
 -	Trained new staff.
@@ -135,7 +135,7 @@ Training is provided by Deakin as part of two units. The exam date is yet to be 
 ## Volunteering
 
 ### Head Boy  
-#### C.F.C Public School, Ludhiana, Punjab, India  
+**C.F.C Public School, Ludhiana, Punjab, India**  
 *March 2014 – March 2015*  
 High school affiliated with CBSE (Central Board of Secondary Education), India.   
 -	Organized events like debates, cultural festivals, sports events and dance performances.  
@@ -143,14 +143,14 @@ High school affiliated with CBSE (Central Board of Secondary Education), India.
 -	Facilitated management activities and coordinated with Student Council.     
 
 ### House Vice Captain  
-#### C.F.C Public School, Ludhiana, Punjab, India   
+**C.F.C Public School, Ludhiana, Punjab, India**   
 *March 2013 – March 2014*  
 •	Performed duties under guidance of House Captains for student council.  
 •	Orchestrated disciplinary activities and dance, play performances during events.   
 •	Boosted student’s participation in student council.
 
 ### House Prefect  
-#### C.F.C Public School, Ludhiana, Punjab, India  
+**C.F.C Public School, Ludhiana, Punjab, India**  
 *March 2011 – March 2013*  
 •	Participated in student council work within campus.  
 •	Accomplished general disciplinary duties like checking uniforms, organizing students for morning assembly.      
