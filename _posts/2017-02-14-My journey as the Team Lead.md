@@ -1,6 +1,7 @@
 ---
 title: My journey as the Team Lead
 layout: post
+author: "Monty Panday"
 ---
 
 This post describes my journey as the Team Leader for Team 10 during T2 and T3, 2017.
