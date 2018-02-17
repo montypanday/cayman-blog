@@ -23,7 +23,7 @@ The Swagger documentation for the API is available at [https://docchain.azureweb
 
 Please feel free to try the application. It uses external authentication using **Oauth 2.0**. You can log in using your Box or Google Drive account, see all your files and folders, select any file, embed its hash onto the blockchain. You can later come back and check if the file has changed or not.
 
-## Assertion
+# Assertion
 
 ## Introduction
 The Team built an application that allows users to login with their Box or Google Drive account, manage their files and use our BlockChain Infrastructure to verify the integrity of their files.
