@@ -17,5 +17,11 @@ Our client [LINCD](https://www.lincd.co/) provides BlockChain Infrastructure as 
 ## Project Assets
 The code is in a private repository managed by me. If anyone wants access to the repository, they can use the Contact form to send me an email.
 
-The application is hosted on Azure and is available at [https://docchain.azurewebsites.net](https://docchain.azurewebsites.net).  
-The Swagger documentation for the API is available at [https://docchain.azurewebsites.net/swagger](https://docchain.aazurewebsites.net/swagger) 
+The application is hosted on Azure and is available at [https://docchain.azurewebsites.net](https://docchain.azurewebsites.net).
+
+The Swagger documentation for the API is available at [https://docchain.azurewebsites.net/swagger](https://docchain.azurewebsites.net/swagger)
+
+Please feel free to try the application. It uses external authentication using **Oauth 2.0**. You can log in using your Box or Google Drive account, see all your files and folders, select any file, embed its hash onto the blockchain. You can later come back and check if the file has changed or not.
+
+## My Capabilities
+As the team lead, I was responsible for the overall success of the project. I played a major role in deciding the project architecture, languages, team management. 
