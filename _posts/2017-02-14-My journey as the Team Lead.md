@@ -47,6 +47,11 @@ By the end of sprint 4, we successfully completed the project to client expectat
 
 ![Client liked videos](/images/videos_good_email_client.png)
 
+
+**Client liked the UI, Swagger Documentation, cookie encryption, API and other features**
+
+![Client liked videos](/images/2.png)
+
 At the start of the project, the architecture, languages and implementation of the project was not fixed. My first task was to figure out the best options and propose a solution to the client that was feasible. I had the choice of using either Angular or ReactJs for building the UI. I tried and studied both languages and decided to use ReactJs because of its simplicity, support and component based architecture. I also proposed two backend solutions using Node.js(Express) and .NET Core. We used .NET Core because of client suggestions as their codebase follows the .NET architecture.
 
 I proposed the idea to built the application for existing cloud storage users than setting up a new storage platform because that would have diverted the team away from the core features of the application.
