@@ -67,12 +67,14 @@ By the end of sprint 4, we successfully completed the project to client expectat
 ![Team Feedback for me](/images/5.png)
 
 **Client Feedback**
+
 ![Client Feedback](/images/6.png)
 
 ![Client Feedback](/images/7.png)
 
 **Swagger Documentation**
-![Client Feedback](/images/8.png)
+
+![Client Feedback](/images/8.png)  
 
 
 
