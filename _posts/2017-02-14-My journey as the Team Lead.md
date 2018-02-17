@@ -32,7 +32,13 @@ It is a Single Page Application built using ReactJs with a .NET CORE WEB API as 
 
 Our client [LINCD](https://www.lincd.co/) provides BlockChain infrastructure as a service. This application is built as proof of concept for client's idea that BlockChain can be used for document integrity verification. In future, the application will be used by lawyers and accountants.
 
+By the end of sprint 4, we successfully completed the project to client expectations. The team presented the project at the showcase which was a unique experience in itself.
+
 ## My contribution to the project
+
+**I was the lead programmer in the team for all the four sprints. By the end of the sprint 4, I built the WEB API on my own, introduced encrypted cookies, wrote Swagger documentation, wrote all code related to Box and Google Drive, made sure that all actions like uploads, downloads, file/folder renames/deletions/sharing etc. actually work without errors. I wrote most of the ReactJs code, refactored it again and again to improve performance and speed.
+
+I also handled all communications with the client and use to send weekly updates in the form of videos which you will find below. As the team lead, I also managed internal team communication, flow of ideas, helped my team mates in resolving errors and learning about how the project works.**
 At the start of the project, the architecture, languages and implementation of the project was not fixed. My first task was to figure out the best options and propose a solution to the client that was feasible. I had the choice of using either Angular or ReactJs for building the UI. I tried and studied both languages and decided to use ReactJs because of its simplicity, support and component based architecture. I also proposed two backend solutions using Node.js(Express) and .NET Core. We used .NET Core because of client suggestions as their codebase follows the .NET architecture.
 
 I proposed the idea to built the application for existing cloud storage users than setting up a new storage platform because that would have diverted the team away from the core features of the application.
