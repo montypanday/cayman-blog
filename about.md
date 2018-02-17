@@ -27,7 +27,7 @@ I am a final year student, studying the Bachelor of Information Technology at De
   -	Ability to work on multiple projects and jobs simultaneously.  
   -	Can work overtime to meet deadlines.
   -	Fluent verbal and written communication in English.
-  PTE Academic – 81/90.
+  - PTE Academic – 81/90.
   -	Microsoft Office skills.
 
 
