@@ -57,22 +57,18 @@ By the end of sprint 4, we successfully completed the project to client expectat
 
 ![Team Feedback for me](/images/1.png)
 
-**Team Feedback on SparkPlus**
 ![Team Feedback for me](/images/2.png)
 
-**Team Feedback on SparkPlus**
+
 ![Team Feedback for me](/images/3.png)
 
-**Team Feedback on SparkPlus**
 ![Team Feedback for me](/images/4.png)
 
-**Team Feedback on SparkPlus**
 ![Team Feedback for me](/images/5.png)
 
 **Client Feedback**
 ![Client Feedback](/images/6.png)
 
-**Client Feedback**
 ![Client Feedback](/images/7.png)
 
 **Swagger Documentation**
