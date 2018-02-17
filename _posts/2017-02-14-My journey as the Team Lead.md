@@ -30,4 +30,9 @@ The Team built an application that allows users to login with their Box or Googl
 
 It is a Single Page Application built using ReactJs with a .NET CORE WEB API as backend. Currently, it also uses a MSSQL database for logging user actions.
 
-Our client [LINCD](https://www.lincd.co/) provides BlockChain Infrastructure as a service. This application is built as proof of concept for client's idea that BlockChain can be used for document integrity verification. In future, the application will be used by lawyers and accountants.
+Our client [LINCD](https://www.lincd.co/) provides BlockChain infrastructure as a service. This application is built as proof of concept for client's idea that BlockChain can be used for document integrity verification. In future, the application will be used by lawyers and accountants.
+
+## My contribution to the project
+At the start of the project, the architecture, languages and implementation of the project was not fixed. My first task was to figure out the best options and propose a solution to the client that was feasible. I had the choice of using either Angular or ReactJs for building the UI. I tried and studied both languages and decided to use ReactJs because of its simplicity, support and component based architecture. I also proposed two backend solutions using Node.js(Express) and .NET Core. We used .NET Core because of client suggestions as their codebase follows the .NET architecture.
+
+The project was aimed to built a file storage product and the requirements didn't specify that the application should incorporate support for Box, Google Drive or any other platform. However, the project name was Box.com meets blockchain. This made me think it should be able to work for Box users. This was later confirmed with the client when I proposed a solution and discussed and defined project requirements which were earlier "vague" as my supervisor said.
