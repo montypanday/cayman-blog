@@ -48,7 +48,7 @@ I am a final year student, studying the Bachelor of Information Technology at De
 
 ## Education
 
-### BACHELOR OF INFORMATION TECHNOLOGY    
+### Bachelor of Information Technology  
 Deakin University | July 2015 – Current   
 
 -	Major:    
@@ -60,7 +60,7 @@ Deakin University | July 2015 – Current
 
 ## Relevant Experience
 
-### JUNIOR ANALYST PROGRAMMER
+### Junior Analyst Programmer
 
 **Box Hill Institute**						
 *February 2018 – Current*  
@@ -68,7 +68,7 @@ Deakin University | July 2015 – Current
 -	PHP development – fuse box framework and MSSQL.  
 -	Code Refactoring, adding features and resolving issues.
 
-### SUMMER TECH LIVE PROGRAM – VICTORIA GOVERNMENT
+### Programmer - [Summer Tech Live Program](https://www.vic.gov.au/summertechlive.html)
 
 **[NetCrypt](https://netcrypt.com/)**.  
 *December 2017 – Current*  
@@ -78,7 +78,7 @@ Deakin University | July 2015 – Current
 -	Understanding and addressing IT business requirements.  
 -	Started on Android project.  
 
-### PROGRAMMER - INTERN  
+### Programmer - Intern  
 **Box Hill Institute**  
 *October 2017 – February 2018  
 IT Service Desk provides services to Box Hill Institute’s staff, students and contractors*  
@@ -96,9 +96,9 @@ IT Service Desk provides services to Box Hill Institute’s staff, students and 
     - Outcome: ASP.NET Core and ReactJs Project which integrates Blockchain concepts with cloud storage providers like Google Drive and Box.
 
 
-## EMPLOYMENT HISTORY
+## Employment History
 
-### CALL CENTER OPERATOR  
+### Call Centre Operator  
 **Division of Student Life, Deakin university**  
 *August 2017 – December 2017*  
 Call center provides support to high risk students.  
@@ -123,7 +123,7 @@ August 2015 – August 2016
 -	Earned problem solving skills.
 -	Started cooking as hobby.   
 
-## PROFESSIONAL DEVELOPMENT
+## Professional Development
 
 **CCNA ROUTING AND SWITCHING
 Deakin University – CISCO**  
@@ -132,9 +132,9 @@ This course is the training for CISCO CCNA certification exam.
 Training is provided by Deakin as part of two units. The exam date is yet to be finalized.  
 
 
-## VOLUNTEERING
+## Volunteering
 
-### HEAD BOY  
+### Head Boy  
 #### C.F.C Public School, Ludhiana, Punjab, India  
 *March 2014 – March 2015*  
 High school affiliated with CBSE (Central Board of Secondary Education), India.   
@@ -142,14 +142,14 @@ High school affiliated with CBSE (Central Board of Secondary Education), India.
 -	Presided the student council.  
 -	Facilitated management activities and coordinated with Student Council.     
 
-### HOUSE VICE CAPTAIN  
+### House Vice Captain  
 #### C.F.C Public School, Ludhiana, Punjab, India   
 *March 2013 – March 2014*  
 •	Performed duties under guidance of House Captains for student council.  
 •	Orchestrated disciplinary activities and dance, play performances during events.   
 •	Boosted student’s participation in student council.
 
-### HOUSE PREFECT  
+### House Prefect  
 #### C.F.C Public School, Ludhiana, Punjab, India  
 *March 2011 – March 2013*  
 •	Participated in student council work within campus.  
