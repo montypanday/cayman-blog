@@ -3,9 +3,10 @@ title: SIT206 Portfolio
 layout: post
 author: "Monty Panday"
 ---
+This post describes my journey while studying SIT 206 at Deakin in 2018.
 
-# Student ID: 215299028
-# Student Name: Monty Panday
+### Student ID: 215299028
+### Student Name: Monty Panday
 
 
 
@@ -165,7 +166,7 @@ I first started with a simple Contact list app which displays all the users cont
 * How did you implement it? 
  
  ![Image](/images/sit206/18.png)
- 
+
 Figure 1 TableViewHelper to display a message when the table is empty
  
  ![Image](/images/sit206/19.png)
