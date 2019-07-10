@@ -7,14 +7,14 @@ permalink: /about.html
 
 ## Contact Details
 **Phone:** 0410870704   
-**Email:** [mpanday@deakin.edu.au](mailto:mpanday@deakin.edu.au)  
+**Email:** [montypanday293@gmail.com](mailto:montypanday293@gmail.com)  
 **LinkedIn:** [https://au.linkedin.com/in/monty-panday-b17416104](https://au.linkedin.com/in/monty-panday-b17416104)  
 **GitHub:** [https://github.com/montypanday](https://github.com/montypanday)
 
 
 ## Professional Profile  
 
-I am a final year student, studying the Bachelor of Information Technology at Deakin University, majoring in Programming and Cloud Computing/Networking. Proven English communication skills and good academic performance. Programming experience with a variety of languages and tech. Currently working on building a Cloud Application for LINCD, Melbourne. Eager to build a career as Software Programmer.
+I graduated in 2018 as Bachelor of Information Technology from Deakin University, majoring in Programming and Cloud Computing/Networking. Proven English communication skills and good academic performance. Programming experience with a variety of languages and tech. Eager to build a career as Software Programmer.
 
 ## Skills  
 
@@ -22,56 +22,63 @@ I am a final year student, studying the Bachelor of Information Technology at De
   -	Agile Project Management (30 weeks experience).  
   -	Experience working in a startup environment as well as in big organizations.  
   -	Collaboration tools like GitHub, Trello, Slack etc.  
-  -	Demonstrated experiencing working with new languages, frameworks and technologies.  
-  -	Demonstrated experience working on legacy code.  
+  -	Demonstrated experiencing working with new languages, frameworks and technologies.    
   -	Ability to work on multiple projects and jobs simultaneously.  
-  -	Can work overtime to meet deadlines.
   -	Fluent verbal and written communication in English.
   - PTE Academic – 81/90.
   -	Microsoft Office skills.
 
 
-### Technical Skills   
--	  Microsoft Visual Studio, C#.  
--	  .NET Core, ReactJs, jQuery.  
--	  Databases: Oracle, MySQL, MSSQL.  
--	  Windows Forms/Web API projects.  
--	  PHP Frameworks (Fusebox and Yii).  
--	  Learning Android and iOS development.  
--	  Proven Record of working with complex algorithms, puzzles and large projects.  
+### Technical Skills 
+-	  PHP Frameworks (Laravel, Symfony, Yii and Moodle). 
+-   JavaScript Frameworks (ReactJs and Vue.js)
+-	  Microsoft Visual Studio, C#, .NET Core API
+-	  Databases: MySQL, MSSQL.  
+-	  Windows Forms/Web API projects.    
+-	  Working Experience in Android and iOS programming (Swift, Java)  
 -	  Cloud Infrastructure (VMWare)  
--	  UI design – Bootstrap and CSS.  
+-	  Introductory experience with Node.js
 -	  Cisco IOS: routers, switches etc.  
 -	  Installing and troubleshooting networking equipment.  
-
 
 
 ## Education
 
 ### Bachelor of Information Technology  
-Deakin University | July 2015 – Current   
+Deakin University | July 2015 – July 2018   
 
 -	Major:    
   - Programming  
 	- Cloud Computing and Networking  
-	   - WAM: 85.1 (Achieved 19 credit points out of 24)  
--	Expected completion: July 2018
+	   - WAM: Above 80  
 
 
 ## Relevant Experience
 
+### Analyst Programmer
+
+**Box Hill Institute**
+*September 2018 - Current*
+- Developed Evidence of Participation Portal using Laravel
+- Developed BHI Print Services Portal
+- Moodle Administration and plugin development.
+- Application Support and upgrades.
+- Implemented ITIL Service Management Solution, Cherwell
+
+
 ### Junior Analyst Programmer
 
 **Box Hill Institute**						
-*February 2018 – Current*  
-*IT Service Desk provides services to Box Hill Institute’s staff, students and contractors.*  
--	PHP development – fuse box framework and MSSQL.  
+*February 2018 – September 2018*  
+*IT Service Desk provides services to Box Hill Institute’s staff and students.*  
+-	PHP development – native PHP and MSSQL.  
 -	Code Refactoring, adding features and resolving issues.
+- Application Support
 
 ### Programmer - [Summer Tech Live Program](https://www.vic.gov.au/summertechlive.html)
 
 **[NetCrypt](https://netcrypt.com/)**.  
-*December 2017 – Current*  
+*December 2017 – March 2018*  
 
 - Currently working on adding features to a PHP project using Yii Framework.  
 -	Responsibilities include UI, backend and MySQL database development.  
@@ -80,7 +87,7 @@ Deakin University | July 2015 – Current
 
 ### Programmer - Intern  
 **Box Hill Institute**  
-*October 2017 – February 2018  
+*October 2017 – February 2018*
 IT Service Desk provides services to Box Hill Institute’s staff, students and contractors*  
 -	Gained Experience with PHP Fusebox framework and MSSQL.  
 -	Experienced Change Management process and initiated a change.  
@@ -114,22 +121,6 @@ ISS provides cleaning services, support, property,
 catering, security and facility management services.*
 -	Maintained high cleaning standards.  
 -	Represented ISS in Nestle.
-
-### Restaurant Manager/ Kitchen Hand/ Waiter  
-**Shiraaz Indian Restaurant, 48 Malop street, Geelong**  
-August 2015 – August 2016
--	Mastered in fine dining skills.
--	Trained new staff.
--	Earned problem solving skills.
--	Started cooking as hobby.   
-
-## Professional Development
-
-**CCNA ROUTING AND SWITCHING
-Deakin University – CISCO**  
-*March 2017 – October 2017*  
-This course is the training for CISCO CCNA certification exam.   
-Training is provided by Deakin as part of two units. The exam date is yet to be finalized.  
 
 
 ## Volunteering
